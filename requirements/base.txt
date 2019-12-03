@@ -11,7 +11,7 @@ django-rest-swagger==0.3.7
 djangorestframework==3.3.3
 djangorestframework-jwt==1.8.0
 drfdocs==0.0.11
-ecdsa==0.13
+ecdsa==0.13.3
 enum34==1.1.4
 Fabric3==1.11.1.post1
 greenlet==0.4.7
