@@ -3,7 +3,7 @@ anyjson==0.3.3
 billiard==3.3.0.23
 celery==3.1.23
 defusedxml==0.4.1
-Django==1.9.6
+Django==1.11.29
 django-braces==1.8.1
 django-debug-toolbar==1.4
 django-push-notifications==1.4.1
