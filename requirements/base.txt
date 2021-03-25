@@ -31,7 +31,7 @@ python-openid==2.2.5
 python-social-auth==0.2.19
 python3-openid==3.0.10
 pytz==2016.4
-PyYAML==3.11
+PyYAML==5.4
 qrcode==5.1
 requests==2.10.0
 requests-oauthlib==0.6.1
