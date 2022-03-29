@@ -20,7 +20,7 @@ idna==2.1
 ipaddress==1.0.16
 kombu==3.0.35
 oauthlib==1.1.1
-paramiko==1.17.0
+paramiko==2.10.1
 Pillow==5.2.0
 psycopg2-binary==2.7.5
 pyasn1==0.1.9
